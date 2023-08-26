@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bacho Sulikashvili</h1>
+<h1 align="center"><hi /> 👋, I'm Bacho Sulikashvili</h1>
 <h2 align="center">Bigginer Front-End Developer from Georgia</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=BachoSulikashvilili&label=Profile%20views&color=3f5427&style=plastic" alt="BachoSulikashvili" /> </p>
