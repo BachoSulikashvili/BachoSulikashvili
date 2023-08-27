@@ -5,9 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=BachoSulikashvili" alt="BachoSulikashvili" /></a> </p>
 
+
 - 👨‍💻 I’m currently learning ✌𝓡𝓮𝓪𝓿𝓽 𝓪𝓷𝓭 𝓣𝓪𝓲𝓵𝔀𝓲𝓷𝓭𝓒𝓢𝓢✌
 - 📫 How to reach me: ✌𝓑𝓪𝓬𝓱𝓸𝓢𝓾𝓵𝓲𝓴𝓪𝓼𝓱𝓿𝓲𝓵𝓲12@𝓰𝓶𝓪𝓲𝓵.𝓬𝓸𝓶✌
 - 💬 Ask me about ✌𝓓𝓮𝓿𝓮𝓵𝓸𝓹𝓶𝓮𝓷𝓽✌
+
+  
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/BachoSulikashvili-67b62a210/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="BachoSulikashvili" height="30" width="40" /></a>
 <!--
 **BachoSulikashvili/BachoSulikashvili** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
