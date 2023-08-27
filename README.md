@@ -14,9 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/bacho-sulikashvili-121529255/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="BachoSulikashvili" height="30" width="40" /></a>
-  
 <a href="https://www.facebook.com/bacho.sulikashvili.9" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/ee/Logo_de_Facebook.png" alt="BachoSulikashvili" height="30" width="35" /></a>
-
 <a href="https://www.instagram.com/bacho.sulikashvili/" target="blank"><img align="center" src="https://img.freepik.com/premium-vector/purple-gradiend-social-media-logo_197792-1883.jpg" alt="BachoSulikashvili" height="30" width="35" /></a>
 <!--
 **BachoSulikashvili/BachoSulikashvili** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
