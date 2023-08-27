@@ -22,7 +22,10 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=BachoSulikashvili&show_icons=true&locale=en&layout=compact" alt="BachoSulikashvili" /></p>
 
-![snake gif](https://github.com/BachoSulikashvili/blob/output/github-contribution-grid-snake.gif)
+<p align="center">   
+  <a href="https://github.com/BachoSulikashvili"> 
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BachoSulikashvili&theme=radical" alt="Bacho Sulikashvili's GitHub Contribution"/>     </a>
+</p>
 <!--
 **BachoSulikashvili/BachoSulikashvili** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
