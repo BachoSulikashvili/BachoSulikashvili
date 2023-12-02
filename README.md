@@ -6,10 +6,8 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=BachoSulikashvili" alt="BachoSulikashvili" /></a> </p>
 
 
-- 👨‍💻 I’m currently learning ♛𝓡𝓮𝓪𝓿𝓽 𝓪𝓷𝓭 𝓣𝓪𝓲𝓵𝔀𝓲𝓷𝓭𝓒𝓢𝓢♛
 - 📫 How to reach me: ♛𝓑𝓪𝓬𝓱𝓸𝓢𝓾𝓵𝓲𝓴𝓪𝓼𝓱𝓿𝓲𝓵𝓲12@𝓰𝓶𝓪𝓲𝓵.𝓬𝓸𝓶♛
 - 💬 Ask me about ♛𝓓𝓮𝓿𝓮𝓵𝓸𝓹𝓶𝓮𝓷𝓽♛
-- ⌨ I’m currently working on ♛𝓙𝓢 𝓐𝓷𝓭 𝓡𝓮𝓪𝓬𝓽 𝓟𝓻𝓸𝓳𝓮𝓬𝓽𝓼♛
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
